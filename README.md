@@ -1,4 +1,4 @@
-## Minimal repro for a pinia issue
+## Minimal repro for pinia-plugin-persist [issue#18](https://github.com/Seb-L/pinia-plugin-persist/issues/18)
 
 Steps to repro:
 
